@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Data dan Informasi
-date: 2019-01-29 +0700
+date: 2020-03-23 +0700
 description: informasi data data dan informasi sistem informasi
 img: data.jpg # Add image post (optional)
 tags: [Blog, College]
