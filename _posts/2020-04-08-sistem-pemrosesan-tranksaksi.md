@@ -130,6 +130,8 @@ Dalam jenis pemrosesan “online processing” lebih efisiens dari pada jenis �
    Sumber
 
    https://ilmuprabowo.wordpress.com/category/pertemuan-ke-3/sistem-pemrosesan-transaksi/
+
    http://anissya-rohman.blogspot.com/2014/09/sistem-pemrosesan-transaksi.html
+   
    https://marlonsn.wordpress.com/2012/05/10/sistem-pemprosesan-transaksi/
  
