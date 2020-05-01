@@ -5,4 +5,29 @@
   })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
   ga('create', '{{ site.analytics }}', 'auto');
   ga('send', 'pageview');
-</script> <!-- End Analytics -->
+</script> 
+
+<!-- The core Firebase JS SDK is always required and must be listed first -->
+<script src="https://www.gstatic.com/firebasejs/7.14.2/firebase-app.js"></script>
+
+<!-- TODO: Add SDKs for Firebase products that you want to use
+     https://firebase.google.com/docs/web/setup#available-libraries -->
+<script src="https://www.gstatic.com/firebasejs/7.14.2/firebase-analytics.js"></script>
+
+<script>
+  // Your web app's Firebase configuration
+  var firebaseConfig = {
+    apiKey: "AIzaSyCdf5UKqbiV4l-XFFCd54lQ8I7BIDnH2fo",
+    authDomain: "flutter-flavors-31ce4.firebaseapp.com",
+    databaseURL: "https://flutter-flavors-31ce4.firebaseio.com",
+    projectId: "flutter-flavors-31ce4",
+    storageBucket: "flutter-flavors-31ce4.appspot.com",
+    messagingSenderId: "793579746707",
+    appId: "1:793579746707:web:6bb2f2cf2495f49cb72466",
+    measurementId: "G-JT6ETWSE6F"
+  };
+  // Initialize Firebase
+  firebase.initializeApp(firebaseConfig);
+  firebase.analytics();
+</script>
+<!-- End Analytics -->
